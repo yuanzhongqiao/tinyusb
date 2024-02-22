@@ -6,17 +6,17 @@
 <h2 tabindex="-1" dir="auto"><a id="user-content-sponsors" class="anchor" aria-hidden="true" tabindex="-1" href="#sponsors"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">赞助商</font></font></h2>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TinyUSB 由 Adafruit 资助。从他们那里购买产品有助于支持该项目。</font></font></p>
 <div dir="auto">
-<a href="https://www.adafruit.com" rel="nofollow"><img alt="阿达水果标志" src="/hathach/tinyusb/raw/master/docs/assets/adafruit_logo.svg" style="max-width: 100%;">
+<a href="https://www.adafruit.com" rel="nofollow"><img alt="阿达水果标志" src="https://github.com/hathach/tinyusb/raw/master/docs/assets/adafruit_logo.svg" style="max-width: 100%;">
 </a>
 </div>
 <a name="user-content-tinyusb-project"></a>
 <h2 tabindex="-1" dir="auto"><a id="user-content-tinyusb-project" class="anchor" aria-hidden="true" tabindex="-1" href="#tinyusb-project"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TinyUSB项目</font></font></h2>
 <div dir="auto">
-<a target="_blank" rel="noopener noreferrer" href="/hathach/tinyusb/blob/master/docs/assets/logo.svg"><img alt="微型USB" src="/hathach/tinyusb/raw/master/docs/assets/logo.svg" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/hathach/tinyusb/blob/master/docs/assets/logo.svg"><img alt="微型USB" src="https://github.com/hathach/tinyusb/raw/master/docs/assets/logo.svg" style="max-width: 100%;"></a>
 </div>
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TinyUSB 是一个用于嵌入式系统的开源跨平台 USB 主机/设备堆栈，设计为内存安全，无需动态分配，线程安全，所有中断事件都被推迟，然后在非 ISR 任务函数中处理。查看在线</font></font><a href="https://docs.tinyusb.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文档</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以获取更多详细信息。</font></font></p>
 <div dir="auto">
-<a target="_blank" rel="noopener noreferrer" href="/hathach/tinyusb/blob/master/docs/assets/stack.svg"><img alt="叠起" src="/hathach/tinyusb/raw/master/docs/assets/stack.svg" width="500px" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/hathach/tinyusb/blob/master/docs/assets/stack.svg"><img alt="叠起" src="https://github.com/hathach/tinyusb/raw/master/docs/assets/stack.svg" width="500px" style="max-width: 100%;"></a>
 </div>
 <pre><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 ├── docs # 文档</font></font><font></font><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
